@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Nemo example</string>
+    <string name="main_text">This example runs 4 network requests. See LogCat for more info what\'s happening.</string>
+
+</resources>
